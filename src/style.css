@@ -2,10 +2,7 @@
   margin-bottom: 10px;
 }
 
-.personal-info,
-.registration,
-.interesting,
-.additional-info {
+.form__field {
   margin-bottom: 20px;
 }
 
