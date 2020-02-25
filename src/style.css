@@ -1,4 +1,5 @@
 .form__item {
+  display: block;
   margin-bottom: 10px;
 }
 
@@ -6,10 +7,6 @@
   margin-bottom: 20px;
 }
 
-.personal-info__age input {
-  width: 65px;
-}
-
-.form__item:last-of-type {
+.form__item--last {
   margin-bottom: 0;
 }
